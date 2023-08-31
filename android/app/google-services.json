@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022990130464",
+    "project_id": "lamitapp1",
+    "storage_bucket": "lamitapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022990130464:android:0fa43a6dddb3377a25cb45",
+        "android_client_info": {
+          "package_name": "com.example.lamit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022990130464-likqu1i5bf5rifjd2ejoeajdfdghsc3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7V5sWbf8oONs9fGPVYRM2Aa5iAjVqdaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022990130464-likqu1i5bf5rifjd2ejoeajdfdghsc3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
